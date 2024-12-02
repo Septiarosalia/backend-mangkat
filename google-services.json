@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "890071917679",
+    "project_id": "mangkatsystem",
+    "storage_bucket": "mangkatsystem.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890071917679:android:77d691015baf9ccf26199a",
+        "android_client_info": {
+          "package_name": "com.company.mangkatsytem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890071917679-82p3und32mkqt1j81vf600jij8pqh4d4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD01u5D1bgz_wGYQB5VjpiZzsY-xu62jM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890071917679-82p3und32mkqt1j81vf600jij8pqh4d4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

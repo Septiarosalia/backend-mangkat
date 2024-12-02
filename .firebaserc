@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "mangkatsystem",
+    "mangkat": "mangkatsystem"
+  },
+  "targets": {},
+  "etags": {}
+}
